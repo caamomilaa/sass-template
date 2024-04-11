@@ -1,0 +1,32 @@
+@use '../mixins/hover.scss' as *;
+@use '../mixins/pseudo.scss' as *;
+.card {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  background-color: var(--color-background);
+  width: 21.875rem;
+  height: 31.25rem;
+  padding: 24px;
+
+  &__title,
+  &__text {
+    color: var(--color-text);
+  }
+  &__button {
+    border-radius: 1.5625rem;
+    background-color: beige;
+    width: 6.25rem;
+    text-align: center;
+
+    @include hover {
+      background-color: orange;
+      color: white;
+    }
+  }
+  &::after{
+    @include pseudo(100px, 100px);
+    top:0;
+    left: 0;background-color: red;
+  }
+}
