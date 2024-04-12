@@ -5,7 +5,6 @@
 ## Ejemplo en vivo
 
 - [URL-de-github-pages-de-este-proyecto](URL-de-github-pages-de-este-proyecto)
-- [URL-de-la-api](URL-de-la-api)
 
 ## Descripción 📑
 
@@ -33,11 +32,10 @@ Si quieres echar un vistazo al proyecto, te recomiendo:
 
 ## Autor ✒️
 
-**TU NOMBRE**
+**CAMILA VELÁZQUEZ D' AMICO**
 
-- [micorreo@midominio.com](micorreo@midominio.com)
-- [LinkedIn](https://www.linkedin.com/in/tu-url-de-linkedin/)
-- [Porfolio web](https://tu-dominio.com/)
+- [c.velazquezdamico@gmail.com](c.velazquezdamico@gmail.com)
+- [LinkedIn](https://www.linkedin.com/in/c-velazquezdamico?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
 
 ## Instalación
 
